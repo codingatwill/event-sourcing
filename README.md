@@ -3,4 +3,3 @@
 - [ ] Arge 
 - [ ] Destekleyen kütüphaneler
 - [ ] Event store
-- [ ]  
